@@ -1,10 +1,12 @@
 # Demo teaching material template
 ## About this teaching material
-This course...
+This course Wireless communication systems
 
 ## Main topics
-* This
-* That
+* channel models
+* modulation
+* multiple access techniques
+* advanced signal processing techniques
 
 ## What you will learn
 * This
@@ -12,9 +14,9 @@ This course...
 * ...
 
 ## What you will need:
-* (Replace with list of required skills / knowledge)
-* (Specify also if any hardware / lab is required)
-
+* Communication 
+* Matlab 
+* SDR boards
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
