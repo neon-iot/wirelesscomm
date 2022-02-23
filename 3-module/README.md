@@ -1,3 +1,10 @@
 # Module 3
 
-## About this module
+## A case of study: multiuser techniques for low-complexity devices
+
+Non-orthogonal NOMA
+
+Orthogonal OMA
+
+Rate splitting
+
