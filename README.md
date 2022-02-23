@@ -1,6 +1,5 @@
-# Demo teaching material template
-## About this teaching material
-This course Wireless communication systems
+# Wireless communication systems
+
 
 ## Main topics
 * channel models
