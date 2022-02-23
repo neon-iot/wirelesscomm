@@ -9,14 +9,15 @@ This course Wireless communication systems
 * advanced signal processing techniques
 
 ## What you will learn
-* This
-* That
+* Advanced topics on wireless communication systems are presnted.
+* Novel technologies as Massive MIMO, cell-free architectures will be studied.
+* Practical issues as RF imperfecctions are addressed.
 * ...
 
 ## What you will need:
-* Communication 
-* Matlab 
-* SDR boards
+* Basic knowledge on communication systemas
+* Experience in Matlab 
+* SDR  boards are required
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
