@@ -1,3 +1,12 @@
 # Module 2
 
-## About this module
+## Advanced techniques
+
+MIMO-OFDM
+
+Massive MIMO
+
+cellular and cell-free architectures
+
+
+
