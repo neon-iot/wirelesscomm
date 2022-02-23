@@ -7,12 +7,13 @@ This course Wireless communication systems
 * modulation
 * multiple access techniques
 * advanced signal processing techniques
+* Iot: licensed vs unlicensed 
 
 ## What you will learn
 * Advanced topics on wireless communication systems are presnted.
 * Novel technologies as Massive MIMO, cell-free architectures will be studied.
 * Practical issues as RF imperfecctions are addressed.
-* ...
+* Spectral and energy efficiency concepts.
 
 ## What you will need:
 * Basic knowledge on communication systemas
