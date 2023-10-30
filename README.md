@@ -3,14 +3,14 @@
 
 ## Main topics
 * channel models
-* modulation
+* modulation (OFDM, spread spectrum)
 * multiple access techniques
 * advanced signal processing techniques
-* Iot: licensed vs unlicensed 
+* IoT: licensed vs unlicensed spectrum utilization
 
 ## What you will learn
-* Advanced topics on wireless communication systems are presnted.
-* Novel technologies as Massive MIMO, cell-free architectures will be studied.
+* Advanced topics on wireless communication systems are presented.
+* Novel technologies as Massive MIMO, cell-free architectures are studied.
 * Practical issues as RF imperfecctions are addressed.
 * Spectral and energy efficiency concepts.
 
@@ -18,6 +18,11 @@
 * Basic knowledge on communication systemas
 * Experience in Matlab 
 * SDR  boards are required
+
+## The material available
+* Detail of the parts of the course.
+* 
+* Slides: that includes detailed classroom slides.
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
