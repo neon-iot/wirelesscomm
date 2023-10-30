@@ -9,7 +9,7 @@
 * IoT: licensed vs unlicensed spectrum use
 
 ## What you will learn
-* Advanced topics on wireless communication systems are presnted.
+* Advanced topics on wireless communication systems are presented.
 * Novel technologies as Massive MIMO, cell-free architectures will be studied.
 * Practical issues as RF imperfecctions are addressed.
 * Spectral and energy efficiency concepts.
@@ -18,6 +18,11 @@
 * Basic knowledge on communication systemas
 * Experience in Matlab 
 * SDR  boards are required
+
+## The material available
+* Detail of the 3-module part of the course.
+* Slides: that includes detailed classroom slides.
+* 
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
