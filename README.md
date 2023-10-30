@@ -3,10 +3,10 @@
 
 ## Main topics
 * channel models
-* modulation
+* modulation (OFDM and spread spectrum)
 * multiple access techniques
 * advanced signal processing techniques
-* Iot: licensed vs unlicensed 
+* IoT: licensed vs unlicensed spectrum use
 
 ## What you will learn
 * Advanced topics on wireless communication systems are presnted.
