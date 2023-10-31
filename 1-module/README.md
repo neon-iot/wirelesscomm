@@ -6,7 +6,7 @@
 * New demands: 4G and 5G 
 * New technologies for 6G
 
-## Unit 2 - Wireless Channels 
+## Unit 2 - [Wireless Channels](https://github.com/neon-iot/wirelesscomm/files/13220266/Canales.inalambricos.pdf)
 * Propagation mechanisms 
 * Equivalent baseband model 
 * Doppler spread and delay spread 
