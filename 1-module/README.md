@@ -1,12 +1,12 @@
 # Module 1
 
-## Unit 1 - Introduction [Uploading Introducción.pdf…]()
+## Unit 1 - Introduction 
 * Communications requirements 
 * Cell phone evolution; MIMO, modulation, IoT 
 * New demands: 4G and 5G 
 * New technologies for 6G 
 
-## Unit 2 - Wireless Channels [Uploading Unidad 2 - Canales inalámbricos.pdf…]()
+## Unit 2 - Wireless Channels 
 * Propagation mechanisms 
 * Equivalent baseband model 
 * Doppler spread and delay spread 
