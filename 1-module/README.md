@@ -1,13 +1,13 @@
 # Module 1
 
-## Wireless communication systems
+## Unit 1 - Introduction
+* Communications requirements 
+* Cell phone evolution; MIMO, modulation, IoT 
+* New demands: 4G and 5G 
+* New technologies for 6G 
 
-Introduction
-
-Wireless channel
-
-Single carrier and multicarrier modulation
-
-OFDM system
-
-RF imperfections in OFDM systems
+## Unit 2 - Wireless Channels
+* Propagation mechanisms 
+* Equivalent baseband model 
+* Doppler spread and delay spread 
+* Wireless channel models - Examples 
