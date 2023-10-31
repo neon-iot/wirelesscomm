@@ -22,7 +22,7 @@
 ## The material available
 * Detail of the 3-module part of the course.
 * Slides: that includes detailed classroom slides.
-* 
+
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
