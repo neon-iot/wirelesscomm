@@ -1,10 +1,13 @@
 # Module 3
 
-## A case of study: multiuser techniques for low-complexity devices
+## Unit 6 - Spread spectrum
+* Principles: frequency hopping. direct sequence 
+* Multi-User Access - Scatter Codes 
+* Rake Receiver 
+* Multi-user detection 
 
-Non-orthogonal NOMA
-
-Orthogonal OMA
-
-Rate splitting
-
+## Multi-user access in OFDM (OFDMA) 
+* OFDMA vs TDMA 
+* OFDMA on LTE 
+* SC-FDMA 
+* Non-orthogonal multi-user access (NOMA)
